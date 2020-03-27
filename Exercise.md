@@ -39,7 +39,9 @@ The method returns a **set** containing all department objects
 
 Configure your DatabaseConnectionManager such that the variables are gathered from your 
 property file <br>(instead of hard-coded in your DatabaseConnection attributes)<br>
-In git: Ignore the .properties file
+
+In git: Ignore the .properties file<br>
+
 Upload your project to a git repo
 
 Share your github repository with a person in class<br>
