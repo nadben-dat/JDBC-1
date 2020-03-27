@@ -7,9 +7,9 @@ Add as dependency to project: https://www.jetbrains.com/help/idea/working-with-m
 
 **Create a connection to your local MySQL instance**<br>
 
-Create database with emp_dept.sql</i>
+⋅⋅*Create database with <i>emp_dept.sql</i>
 
-Connect, create statement, execute & print all values from 1 column.
+⋅⋅*Connect, create statement, execute & print all values from 1 column.
 
 # 3
 
