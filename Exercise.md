@@ -15,7 +15,9 @@ Connect, create statement, execute & print all values from 1 column.
 
 *Refactor* your code by adding a:
 **DatabaseConnectionManager class**<br>
+
 Move all connection related attributes to that class<br>
+
 Enable the class to: <br>
 Return a working connection object through a method: getConnection
 
