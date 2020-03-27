@@ -7,17 +7,17 @@ Add as dependency to project: https://www.jetbrains.com/help/idea/working-with-m
 
 **Create a connection to your local MySQL instance**<br>
 
-⋅⋅* Create database with <i>emp_dept.sql</i>
+Create database with *emp_dept.sql*
 
-⋅⋅* Connect, create statement, execute & print all values from 1 column.
+Connect, create statement, execute & print all values from 1 column.
 
 # 3
 
-⋅⋅* Refactor your code and add a:
+Refactor your code and add a:
 **DatabaseConnectionManager class**<br>
-⋅⋅* Move all connection related attributes to that class<br>
-⋅⋅* Enable the class to: <br>
-Return a working connection object through a method
+Move all connection related attributes to that class<br>
+Enable the class to: <br>
+Return a working connection object through a method: getConnection
 
 # 4
 
@@ -26,7 +26,7 @@ Employee has all the attributes of the columns in emp<br>
 Department has all the attributes of the columns in dept<br>
 
 Employee has a method: getAllEmployeesById <br>
-The method returns a **map** with empno as key the related Person object as value<br>
+The method returns a **map** with empno as *key* the related Person object as *value*<br>
 
 Department has a method: getSetOfDepartments <br>
 The method returns a **set** containing all department objects
