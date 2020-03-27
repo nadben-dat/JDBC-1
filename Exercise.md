@@ -7,16 +7,16 @@ Add as dependency to project: https://www.jetbrains.com/help/idea/working-with-m
 
 **Create a connection to your local MySQL instance**<br>
 
-⋅⋅*Create database with <i>emp_dept.sql</i>
+⋅⋅* Create database with <i>emp_dept.sql</i>
 
-⋅⋅*Connect, create statement, execute & print all values from 1 column.
+⋅⋅* Connect, create statement, execute & print all values from 1 column.
 
 # 3
 
-Refactor your code and add a:
+⋅⋅* Refactor your code and add a:
 **DatabaseConnectionManager class**<br>
-Move all connection related attributes to that class<br>
-Enable the class to: <br>
+⋅⋅* Move all connection related attributes to that class<br>
+⋅⋅* Enable the class to: <br>
 Return a working connection object through a method
 
 # 4
