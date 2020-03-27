@@ -13,7 +13,7 @@ Connect, create statement, execute & print all values from 1 column.
 
 # 3
 
-Refactor your code and add a:
+*Refactor* your code by adding a:
 **DatabaseConnectionManager class**<br>
 Move all connection related attributes to that class<br>
 Enable the class to: <br>
