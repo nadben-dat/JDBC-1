@@ -9,13 +9,22 @@ Add as dependency to project: https://www.jetbrains.com/help/idea/working-with-m
 
 Create database with <i>emp_dept.sql</i>
 
-Print all columns & row values from the table emp in Java<br>
-Join emp & dept -> Print deptno + ename + empno in Java<br>
-Create 2 classes Employee & Department<br>
-Create 1 lists with all employee objects<br>
-Create 1 list with all department objects<br>
+Connect, create statement, execute & print all values from 1 column.
 
 # 3
+
+Create 2 classes: Employee & Department<br>
+Employee has all the attributes of the columns in emp<br>
+Department has all the attributes of the columns in dept<br>
+
+Employee has a method: getAllEmployeesById <br>
+The method returns a map with Id as key and a Person object as value
+
+Department has a method: getSetOfDepartments <br>
+The method returns a set containing all department objects
+
+
+# 4
 
 Refactor your code and add a:
 **DatabaseConnectionManager class**<br>
@@ -24,7 +33,7 @@ Enable the class to: <br>
 Return a working connection object through a method
 <br>(such that other classes can easily connect to your database using this returned object).
 
-# 4
+# 5
 
 **Create a db.property file**
 
