@@ -1,19 +1,24 @@
-1.
-Download JDBC driver: https://dev.mysql.com/downloads/connector/j/
+1
+
+**Download JDBC driver: https://dev.mysql.com/downloads/connector/j/**
 (Platform independent)
 
-Create a connection to your local MySQL instance
+2
+
+**Create a connection to your local MySQL instance**
 Print all rows from the table emp
 Join emp & dept -> Print departmentNr + ename + empno in Java
 
-2.
-Create a DatabaseConnectionManager class
+3
+
+**Create a DatabaseConnectionManager class**
 All database connection variables must be contained here
 Create a method that:
 Returns a connection object (such that other classes can easily connect to your database).
 
-3.
-Create a db.property file
+4
+
+**Create a db.property file**
 Configure your DatabaseConnectionManager such that the variables are gathered from your 
 property file (instead of hard-coded in your code)
 In git: Ignore the .properties file
