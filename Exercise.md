@@ -12,7 +12,7 @@ Join emp & dept -> Print departmentNr + ename + empno in Java
 
 3
 
-Refactor your code with a:
+Refactor your code and add a:
 **DatabaseConnectionManager class**<br>
 All database connection related info must be contained here<br>
 Create a method in the class that:
