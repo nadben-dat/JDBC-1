@@ -1,9 +1,9 @@
-**1**
+#1
 
 **Download JDBC driver: https://dev.mysql.com/downloads/connector/j/** (Platform independent) <br>
 Add as dependency to project: https://www.jetbrains.com/help/idea/working-with-module-dependencies.html
 
-**2**
+#2
 
 **Create a connection to your local MySQL instance**<br>
 
@@ -15,7 +15,7 @@ Create 2 classes Employee & Department<br>
 Create 1 lists with all employee objects<br>
 Create 1 list with all department objects<br>
 
-**3**
+#3
 
 Refactor your code and add a:
 **DatabaseConnectionManager class**<br>
@@ -24,7 +24,7 @@ Create a method in the class that:<br>
 Returns a connection object 
 <br>(such that other classes can easily connect to your database using this returned object).
 
-**4**
+#4
 
 **Create a db.property file**
 
