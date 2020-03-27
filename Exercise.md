@@ -1,6 +1,7 @@
 1
 
-**Download JDBC driver: https://dev.mysql.com/downloads/connector/j/**<br> (Platform independent)
+**Download JDBC driver: https://dev.mysql.com/downloads/connector/j/** (Platform independent) <br>
+Add as dependency to project: https://www.jetbrains.com/help/idea/working-with-module-dependencies.html
 
 2
 
