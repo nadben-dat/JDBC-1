@@ -29,7 +29,7 @@ Returns a connection object
 **Create a db.property file**
 
 Configure your DatabaseConnectionManager such that the variables are gathered from your 
-property file (instead of hard-coded in your code)<br><br>
+property file (instead of hard-coded in your code)<br>
 In git: Ignore the .properties file
 Upload your project to a git repo
 
