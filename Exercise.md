@@ -9,8 +9,8 @@ Add as dependency to project: https://www.jetbrains.com/help/idea/working-with-m
 
 Create database with <i>emp_dept.sql</i>
 
-Print all columns & row values from the table emp<br>
-Join emp & dept -> Print departmentNr + ename + empno in Java<br>
+Print all columns & row values from the table emp in Java<br>
+Join emp & dept -> Print deptno + ename + empno in Java<br>
 Create 2 classes Employee & Department<br>
 Create 1 lists with all employee objects<br>
 Create 1 list with all department objects<br>
