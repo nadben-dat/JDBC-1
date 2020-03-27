@@ -13,6 +13,15 @@ Connect, create statement, execute & print all values from 1 column.
 
 # 3
 
+Refactor your code and add a:
+**DatabaseConnectionManager class**<br>
+Move all connection related attributes to that class<br>
+Enable the class to: <br>
+Return a working connection object through a method
+<br>(such that other classes can easily connect to your database using this returned object).
+
+# 4
+
 Create 2 classes: Employee & Department<br>
 Employee has all the attributes of the columns in emp<br>
 Department has all the attributes of the columns in dept<br>
@@ -22,16 +31,6 @@ The method returns a map with Id as key and a Person object as value
 
 Department has a method: getSetOfDepartments <br>
 The method returns a set containing all department objects
-
-
-# 4
-
-Refactor your code and add a:
-**DatabaseConnectionManager class**<br>
-Move all connection related attributes to that class<br>
-Enable the class to: <br>
-Return a working connection object through a method
-<br>(such that other classes can easily connect to your database using this returned object).
 
 # 5
 
