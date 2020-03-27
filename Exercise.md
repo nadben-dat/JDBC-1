@@ -5,10 +5,15 @@ Add as dependency to project: https://www.jetbrains.com/help/idea/working-with-m
 
 2
 
-**Create a connection to your local MySQL instance**
+**Create a connection to your local MySQL instance**<br>
+
+Create database with <i>emp_dept.sql</i>
 
 Print all rows from the table emp<br>
 Join emp & dept -> Print departmentNr + ename + empno in Java
+Create 2 classes Employee & Department
+Create 1 lists with all employee objects
+Create 1 list with all department objects
 
 3
 
