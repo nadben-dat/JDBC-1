@@ -1,7 +1,9 @@
 # 1
 
-**Download JDBC driver: https://dev.mysql.com/downloads/connector/j/** (Platform independent) <br>
-Add as dependency to project: https://www.jetbrains.com/help/idea/working-with-module-dependencies.html
+**Create a new maven project**
+Use the .pom file to import JDBC MySQL driver
+
+https://dev.mysql.com/doc/connector-j/8.0/en/connector-j-installing-maven.html
 
 # 2
 
