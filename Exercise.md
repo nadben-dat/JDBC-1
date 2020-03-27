@@ -18,7 +18,6 @@ Refactor your code and add a:
 Move all connection related attributes to that class<br>
 Enable the class to: <br>
 Return a working connection object through a method
-<br>(such that other classes can easily connect to your database using this returned object).
 
 # 4
 
