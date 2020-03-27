@@ -20,8 +20,9 @@ Create 1 list with all department objects<br>
 Refactor your code and add a:
 **DatabaseConnectionManager class**<br>
 Move all connection related information and functionality to that class<br>
-Create a method in the class that:
-Returns a connection object (such that other classes can easily connect to your database using this returned object).
+Create a method in the class that:<br>
+Returns a connection object 
+<br>(such that other classes can easily connect to your database using this returned object).
 
 4
 
