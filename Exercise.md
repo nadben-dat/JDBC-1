@@ -12,8 +12,8 @@ Join emp & dept -> Print departmentNr + ename + empno in Java
 
 3
 
-**Create a DatabaseConnectionManager class**
-
+Refactor your code with a:
+**Create a DatabaseConnectionManager class**<br>
 All database connection related info must be contained here<br>
 Create a method in the class that:
 Returns a connection object (such that other classes can easily connect to your database using this returned object).
