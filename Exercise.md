@@ -32,7 +32,7 @@ Employee has all the attributes of the columns in emp<br>
 Department has all the attributes of the columns in dept<br>
 
 Employee has a method: getAllEmployeesById <br>
-The method returns a **map** with empno as *key* the related Person object as *value*<br>
+The method returns a **map** with empno as *key* & the related Person object as *value*<br>
 
 Department has a method: getSetOfDepartments <br>
 The method returns a **set** containing all department objects
