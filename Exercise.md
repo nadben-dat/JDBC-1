@@ -13,6 +13,8 @@ Create database with *emp_dept.sql*
 
 Connect, create statement, execute & print all values from 1 column.
 
+Challenge: Print all rows & columns use resultset.getMetaData()
+
 # 3
 
 *Refactor* your code by adding a:
