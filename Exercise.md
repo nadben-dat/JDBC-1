@@ -43,6 +43,7 @@ The method returns a **set** containing all department objects
 
 **Create an application.property file**
 
-Configure your DatabaseConnectionManager such that the variables are gathered from your 
-property file <br>(instead of hard-coded in your DatabaseConnection attributes)<br>
+Configure your DatabaseConnectionManager such that the database connectivity attributes are gathered from your property file
+ <br>
+ (instead of hard-coded in your DatabaseConnection attributes)<br>
 
