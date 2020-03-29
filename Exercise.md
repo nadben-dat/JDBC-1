@@ -37,7 +37,7 @@ The method returns a **set** containing all department objects
 
 # 5
 
-**Create a db.property file**
+**Create an application.property file**
 
 Configure your DatabaseConnectionManager such that the variables are gathered from your 
 property file <br>(instead of hard-coded in your DatabaseConnection attributes)<br>
