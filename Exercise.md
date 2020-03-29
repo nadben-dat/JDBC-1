@@ -1,7 +1,7 @@
-https://www.linkedin.com/learning/learning-jdbc/
-https://docs.oracle.com/javase/tutorial/jdbc/basics/index.html
-https://www.tutorialspoint.com/jdbc/jdbc-introduction.htm
-https://docs.oracle.com/javase/tutorial/essential/environment/properties.html
+https://www.linkedin.com/learning/learning-jdbc/<br>
+https://docs.oracle.com/javase/tutorial/jdbc/basics/index.html<br>
+https://www.tutorialspoint.com/jdbc/jdbc-introduction.htm<br>
+https://docs.oracle.com/javase/tutorial/essential/environment/properties.html<br>
 
 # 1
 
