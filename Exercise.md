@@ -31,7 +31,7 @@ Create 2 classes: Employee & Department<br>
 Employee has all the attributes of the columns in emp<br>
 Department has all the attributes of the columns in dept<br>
 
-Employee has a method: getAllEmployeesById <br>
+Employee has a method: getAllEmployees <br>
 The method returns a **map** with empno as *key* & the related Person object as *value*<br>
 
 **Challenge** *Print the map sorted by hiredate*
